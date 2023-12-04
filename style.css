@@ -1,11 +1,19 @@
-a{
-    color: yellow;   
-   }
-
-p{
-    color:blueviolet;
-   }
-
-h1{
-    color:beige;
+.navbar{
+    font-size: 20px;
 }
+
+.navbar-nav .nav-link{
+    color:aqua;
+}
+
+.container-title{
+    font-size: 60px;
+    margin-top: 30px;
+}
+
+.container-p1{
+    font-size: 25px;
+}
+
+
+
